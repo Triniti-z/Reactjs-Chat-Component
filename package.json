@@ -19,6 +19,8 @@
     "nodemon": "^1.11.0",
     "pg": "^6.2.3",
     "randomstring": "^1.1.5",
+    "react": "^16.1.0",
+    "react-dom": "^16.1.0",
     "requests": "^0.2.2",
     "socket.io": "^2.0.4"
   },
