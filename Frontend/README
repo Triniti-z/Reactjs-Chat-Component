@@ -1,0 +1,3 @@
+These are needed inorder to use the App
+
+npm install babel-core babel-loader jquery  webpack webpack-dev-server  babel-preset-react babel-preset-es2015 --save
